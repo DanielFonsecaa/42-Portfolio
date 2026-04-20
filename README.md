@@ -21,24 +21,42 @@ A collection of my projects developed during the **42 Porto Common Core**, where
     <th>Description</th>
   </tr>
 
-  <tr>
-    <td colspan="4" align="center"><b>RANK 05</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="170">
-      <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b07ba86b-35f2-4884-bc02-3aecbd6b7d85" width="120" />
+<tr>
+  <td colspan="4" align="center"><b>RANK 05</b></td>
+</tr>
+
+<tr>
+  <td align="center" width="170">
+    <a href="https://github.com/DanielFonsecaa/webserv/" target="_blank">
+       <img width="120" height="120" alt="WebServer" src="https://github.com/user-attachments/assets/e64f46e1-0a51-4daf-89f4-c79eec0890ec" />
+      <b>Webserv</b>
+    </a>
+    <br/>
+  </td>
+  <td>C++ (C++98), Makefile, HTTP</td>
+  <td>Sockets, HTTP Protocol, Non-blocking I/O, epoll, CGI, Networking</td>
+  <td>
+    Custom HTTP server built in <b>C++98</b>, inspired by Nginx architecture. 
+    Implements non-blocking I/O with <b>epoll</b> to handle multiple clients efficiently, 
+    supporting request parsing, routing via configuration files, static content serving, CGI execution, and custom error handling.
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="170">
+    <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">
+      <img src="https://github.com/user-attachments/assets/b07ba86b-35f2-4884-bc02-3aecbd6b7d85" width="120" />
       <b>C++ Modules CPP05 → CPP09</b>
-      </a>
-      <br/>
-    </td>
-    <td>C++ (C++98), Makefile</td>
-    <td>OOP, Encapsulation, Inheritance, Polymorphism, Operator Overloading, Templates, Exceptions</td>
-    <td>
-      C++ modules following the <b>C++98 standard</b>, focused on mastering OOP and writing clean, reusable, and modular code.
-      <br/>
-    </td>
-  </tr>
+    </a>
+    <br/>
+  </td>
+  <td>C++ (C++98), Makefile</td>
+  <td>OOP, Encapsulation, Inheritance, Polymorphism, Operator Overloading, Templates, Exceptions</td>
+  <td>
+    C++ modules following the <b>C++98 standard</b>, focused on mastering OOP and writing clean, reusable, and modular code.
+  </td>
+</tr>
+
 
   <tr>
     <td colspan="4" align="center"><b>RANK 04</b></td>
