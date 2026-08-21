@@ -27,7 +27,7 @@ A collection of my projects developed during the **42 Porto Common Core**, where
 
 <tr>
   <td align="center" width="170">
-    <a href="https://github.com/DanielFonsecaa/webserv/" target="_blank">
+    <a href="https://github.com/DanielFonsecaa/WebServer" target="_blank">
        <img width="120" height="120" alt="WebServer" src="https://github.com/user-attachments/assets/e64f46e1-0a51-4daf-89f4-c79eec0890ec" />
       <b>Webserv</b>
     </a>
