@@ -7,7 +7,7 @@ A collection of my projects developed during the **42 Porto Common Core**, where
 
 <div align="center">
        
-<a href="https://github.com/DanielFonsecaa/42Badge"><img src="https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExcWU2eXowb213emxlc2xhbHlzamdneXZ3ZjN6d3h3cnA3eTViN2x5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FqpVWnb0RmtmdG%2Fgiphy.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFFFFF&shadowColor=%23FFFFFF&shadowSize=24&borderWidth=1&bgColor=%230A0F24" alt="42 Badge"  width="600"/></a>
+<a href="https://github.com/DanielFonsecaa/42Badge"><img src="https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fgiphy.webp&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFF&shadowColor=%23FFFFFF&shadowSize=24&borderWidth=1&bgColor=%230A0F24" alt="42 Badge" width="600"/></a>
 
 </div align="center">
 </br>
