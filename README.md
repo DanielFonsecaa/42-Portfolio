@@ -6,8 +6,8 @@ A collection of my projects developed during the **42 Porto Common Core**, where
 
 
 <div align="center">
-       
-<a href="https://github.com/DanielFonsecaa/42Badge"><img src="https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fgiphy.webp&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFF&shadowColor=%23FFFFFF&shadowSize=24&borderWidth=1&bgColor=%230A0F24" alt="42 Badge" width="600"/></a>
+
+<a href="https://badge-umber.vercel.app/"><img src="https://badge42-backend.onrender.com/api/badge/gif/dda-fons?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fgiphy.webp&headerColor=%23FFDF57&fg=%23FFDF57&gradeColor=%23FFDF57&campusColor=%23FFDF57&bodyTextColor=%23FFDF57&barColor=%23FFDF57&barTrackColor=%23FFDF578F&avatarColor=%23FFDF57&borderColor=%23FFDF57&borderWidth=3&shadowColor=%23FFDF57&shadowSize=21&font=space-grotesk&avatarUrl=https%3A%2F%2Fgithub.com%2Fdanielfonsecaa.png" alt="42 badge of dda-fons" /></a>
 
 </div align="center">
 </br>
